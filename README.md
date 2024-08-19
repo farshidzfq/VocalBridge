@@ -1,2 +1,2 @@
 # VocalBridge
- Translator
+ Voice Translator
